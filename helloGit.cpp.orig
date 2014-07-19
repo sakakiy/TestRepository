@@ -4,9 +4,16 @@
 using namespace std;
 
 int main(){
+<<<<<<< HEAD
+  cout << "hello, git world !\n";
+
+  ClassFile file;
+  cout << "created ClassFile instance.\n";
+=======
   for(int i=0; i<10; i++){
 	printf("hello, git world %d!\n", i);
   }
+>>>>>>> master
   
   return 0;
 }
